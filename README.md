@@ -6,6 +6,8 @@
 
 -- Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn (2022) </br>
 
+-- Visualization of generalized mean estimators using auxiliary information in survey sampling: additive case and stratification (2021) </br>
+
 -- Residual odds ratios from 2x2xk tables (2021) </br>
 
 -- Latent block principal component analysis for binary tables </br>
