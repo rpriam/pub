@@ -24,7 +24,7 @@
 
 -- A simple variance estimator of change for rotating repeated surveys: an application to the European Union Statistics on Income and Living Conditions household surveys (2016) </br>
 
--- Generalized topographic block model (2016) </br>
+-- Generalized topographic block model (2015) </br>
 
 -- Topographic Bernoulli block mixture mapping for binary tables (2014)  </br>
 
