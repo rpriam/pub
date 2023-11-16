@@ -30,7 +30,7 @@
 
 -- Topographic Bernoulli block mixture mapping for binary tables (2014) </br>
 
--- Benchmarking a random intercept regression for small areas via additional columns and rows </br>
+-- Benchmarking a random intercept regression for small areas via additional columns and rows (2012) </br>
 
 -- A parameterization via random factor for generative topographic mapping (2012) </br>
 
