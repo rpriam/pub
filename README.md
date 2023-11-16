@@ -16,11 +16,14 @@
 
 -- Visualization of generalized mean estimators using auxiliary information in survey sampling (2019) </br>
 
--- Generalized topographic block model (2016)
+-- Symmetric Generative Methods and tSNE: A Short Survey (2018) </br>
 
--- Topographic Bernoulli block mixture mapping for binary tables (2014)
+-- Generalized topographic block model (2016) </br>
 
--- A parameterization via random factor for generative topographic mapping (2012)
+-- Topographic Bernoulli block mixture mapping for binary tables (2014)  </br>
+
+-- A parameterization via random factor for generative topographic mapping (2012) </br>
+
 
 
 
