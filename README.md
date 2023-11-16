@@ -4,6 +4,8 @@
 
 -- Family of linear regression mixture models stratified along the outcome (2023) </br>
 
+-- Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder </br>
+
 -- Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn (2022) </br>
 
 -- Visualization of generalized mean estimators using auxiliary information in survey sampling: additive case and stratification (2021) </br>
