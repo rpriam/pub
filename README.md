@@ -10,7 +10,7 @@
 
 -- Residual odds ratios from 2x2xk tables (2021) </br>
 
--- Latent block principal component analysis for binary tables </br>
+-- Latent block principal component analysis for binary tables (2021) </br>
 
 -- Negative binomial latent block model with generalized constraints (2021) </br>
 
