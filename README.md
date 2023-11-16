@@ -20,6 +20,8 @@
 
 -- Symmetric Generative Methods and tSNE: A Short Survey (2018) </br>
 
+-- Probabilistic Elastic Embedding Model: Comparison of Alternative Models (2018) </br>
+
 -- Generalized topographic block model (2016) </br>
 
 -- Topographic Bernoulli block mixture mapping for binary tables (2014)  </br>
