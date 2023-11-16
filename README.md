@@ -26,7 +26,9 @@
 
 -- Generalized topographic block model (2015) </br>
 
--- Topographic Bernoulli block mixture mapping for binary tables (2014)  </br>
+-- Topographic Bernoulli block mixture mapping for binary tables (2014) </br>
+
+-- Benchmarking a random intercept regression for small areas via additional columns and rows </br>
 
 -- A parameterization via random factor for generative topographic mapping (2012) </br>
 
