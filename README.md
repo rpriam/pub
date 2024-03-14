@@ -12,7 +12,7 @@
 | D | Latent block principal component analysis for binary tables |2021 |
 | D | Negative binomial latent block model with generalized constraints |2021 |
 | D | A brief survey of numerical procedures for empirical likelihood | 2021 |
-| J | Visualization of generalized mean estimators using auxiliary information in survey sampling | 2019 |
+| J | [Visualization of generalized mean estimators using auxiliary information in survey sampling](https://www.tandfonline.com/doi/full/10.1080/03610926.2019.1601224) | 2019 |
 | C | Symmetric Generative Methods and tSNE: A Short Survey | 2018 |
 | D | Probabilistic Elastic Embedding Model: Comparison of Alternative Models | 2018 |
 | J | [A simple variance estimator of change for rotating repeated surveys: an application to the European Union Statistics on Income and Living Conditions household surveys](https://www.jstor.org/stable/43965804) | 2016 |
