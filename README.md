@@ -4,22 +4,14 @@
 | --- | --- | --- |
 | D | Generalized bias correction for small area-level mean estimator with nonlinear transformation of the outcome |2023 |
 | D | Family of linear regression mixture models stratified along the outcome |2023 |
-
--- Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder (2023) </br>
-
--- Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn (2022) </br>
-
--- Visualization of generalized mean estimators using auxiliary information in survey sampling: additive case and stratification (2021) </br>
-
--- Residual odds ratios from 2x2xk tables (2021) </br>
-
--- Latent block principal component analysis for binary tables (2021) </br>
-
--- Negative binomial latent block model with generalized constraints (2021) </br>
-
--- A brief survey of numerical procedures for empirical likelihood (2021) </br>
-
--- Visualization of generalized mean estimators using auxiliary information in survey sampling (2019) </br>
+| D | Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder | 2023 |
+| B | Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn | 2022 |
+| D | Visualization of generalized mean estimators using auxiliary information in survey sampling: additive case and stratification |2021 |
+| D | Residual odds ratios from 2x2xk tables |2021 |
+| D | Latent block principal component analysis for binary tables |2021 |
+| D | Negative binomial latent block model with generalized constraints |2021 |
+| D | A brief survey of numerical procedures for empirical likelihood | 2021 |
+| J | Visualization of generalized mean estimators using auxiliary information in survey sampling | 2019 |
 
 -- Symmetric Generative Methods and tSNE: A Short Survey (2018) </br>
 
