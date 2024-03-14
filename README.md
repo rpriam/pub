@@ -3,7 +3,6 @@
 | Type | Title | File |Year |
 | --- | --- | --- | --- |
 | D | Small-area estimation under a nonlinear transformed area-level model | .pdf | 2024 |
-| D | Generalized bias correction for small area-level mean estimator with nonlinear transformation of the outcome | .pdf | 2023 |
 | D | Family of linear regression mixture models stratified along the outcome | .pdf | 2023 |
 | D | Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder | .pdf | 2023 |
 | B | Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn | .pdf | 2022 |
