@@ -5,7 +5,7 @@
 | Draft | Small-area estimation under a nonlinear transformed area-level model | .pdf | 2024 |
 | Draft | Family of linear regression mixture models stratified along the outcome | .pdf | 2023 |
 | Draft | Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder | .pdf | 2023 |
-| Book | Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn | .pdf | 2022 |
+| Book | Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn | [.pdf](https://github.com/rpriam/book1/blob/main/text/book_pytorch_scikit_learn_numpy.pdf) | 2022 |
 | Draft | Visualization of generalized mean estimators using auxiliary information in survey sampling: additive case and stratification | .pdf | 2021 |
 | Draft | Residual odds ratios from 2x2xk tables | .pdf | 2021 |
 | Draft | Latent block principal component analysis for binary tables | .pdf | 2021 |
