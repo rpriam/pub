@@ -1,7 +1,7 @@
 # Last communications (Rodolphe Priam, 2012-2024)
 
 | Type | Title | File |Year |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | D | Small-area estimation under a nonlinear transformed area-level model | .pdf | 2024 |
 | D | Generalized bias correction for small area-level mean estimator with nonlinear transformation of the outcome | .pdf | 2023 |
 | D | Family of linear regression mixture models stratified along the outcome | .pdf | 2023 |
