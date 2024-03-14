@@ -1,14 +1,9 @@
 # Last Published and unpublished communications
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-
-
--- Generalized bias correction for small area-level mean estimator with nonlinear transformation of the outcome (2023) </br>
-
--- Family of linear regression mixture models stratified along the outcome (2023) </br>
+| Type | Title | Year |
+| --- | --- | --- |
+| D | Generalized bias correction for small area-level mean estimator with nonlinear transformation of the outcome |2023 |
+| D | Family of linear regression mixture models stratified along the outcome |2023 |
 
 -- Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder (2023) </br>
 
