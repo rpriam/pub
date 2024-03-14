@@ -15,10 +15,10 @@
 | J | Visualization of generalized mean estimators using auxiliary information in survey sampling | 2019 |
 | C | Symmetric Generative Methods and tSNE: A Short Survey | 2018 |
 | D | Probabilistic Elastic Embedding Model: Comparison of Alternative Models | 2018 |
-| J | A simple variance estimator of change for rotating repeated surveys: an application to the European Union Statistics on Income and Living Conditions household surveys | 2016 |
+| J | [A simple variance estimator of change for rotating repeated surveys: an application to the European Union Statistics on Income and Living Conditions household surveys](https://www.jstor.org/stable/43965804) | 2016 |
 | J | [Generalized topographic block model](https://www.sciencedirect.com/science/article/pii/S0925231215012795) | 2015 |
-| J |  Data visualization via latent variables and mixture models: a brief survey | 2015 |
-| J | Topographic Bernoulli block mixture mapping for binary tables | 2014 |
+| J |  [Data visualization via latent variables and mixture models: a brief survey](https://link.springer.com/article/10.1007/s10044-015-0521-z) | 2015 |
+| J | [Topographic Bernoulli block mixture mapping for binary tables](https://link.springer.com/article/10.1007/s10044-014-0368-8) | 2014 |
 | D | Benchmarking a random intercept regression for small areas via additional columns and rows | 2013 |
 | C | A parameterization via random factor for generative topographic mapping | 2012 |
 
