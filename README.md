@@ -16,7 +16,7 @@
 | C | Symmetric Generative Methods and tSNE: A Short Survey | 2018 |
 | D | Probabilistic Elastic Embedding Model: Comparison of Alternative Models | 2018 |
 | J | A simple variance estimator of change for rotating repeated surveys: an application to the European Union Statistics on Income and Living Conditions household surveys | 2016 |
-| J | Generalized topographic block model | 2015 |
+| J | [Generalized topographic block model](https://www.sciencedirect.com/science/article/pii/S0925231215012795) | 2015 |
 | J |  Data visualization via latent variables and mixture models: a brief survey | 2015 |
 | J | Topographic Bernoulli block mixture mapping for binary tables | 2014 |
 | D | Benchmarking a random intercept regression for small areas via additional columns and rows | 2013 |
