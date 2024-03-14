@@ -12,20 +12,13 @@
 | D | Negative binomial latent block model with generalized constraints |2021 |
 | D | A brief survey of numerical procedures for empirical likelihood | 2021 |
 | J | Visualization of generalized mean estimators using auxiliary information in survey sampling | 2019 |
-
--- Symmetric Generative Methods and tSNE: A Short Survey (2018) </br>
-
--- Probabilistic Elastic Embedding Model: Comparison of Alternative Models (2018) </br>
-
--- A simple variance estimator of change for rotating repeated surveys: an application to the European Union Statistics on Income and Living Conditions household surveys (2016) </br>
-
--- Generalized topographic block model (2015) </br>
-
--- Topographic Bernoulli block mixture mapping for binary tables (2014) </br>
-
--- Benchmarking a random intercept regression for small areas via additional columns and rows (2013) </br>
-
--- A parameterization via random factor for generative topographic mapping (2012) </br>
+| C | Symmetric Generative Methods and tSNE: A Short Survey | 2018 |
+| D | Probabilistic Elastic Embedding Model: Comparison of Alternative Models | 2018 |
+| J | A simple variance estimator of change for rotating repeated surveys: an application to the European Union Statistics on Income and Living Conditions household surveys | 2016 |
+| J | Generalized topographic block model | 2015 |
+| J | Topographic Bernoulli block mixture mapping for binary tables | 2014 |
+| D | Benchmarking a random intercept regression for small areas via additional columns and rows | 2013 |
+| C | A parameterization via random factor for generative topographic mapping | 2012 |
 
 
 
