@@ -2,12 +2,12 @@
 
 | Type | Title | File |Year |
 | --- | --- | --- | --- |
-| Draft | Small-area estimation under a nonlinear transformed area-level model | .pdf | 2024 |
-| Draft | Family of linear regression mixture models stratified along the outcome | .pdf | 2023 |
-| Draft | Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder | .pdf | 2023 |
+| [Draft](https://hal.science/hal-04225025/) | Small-area estimation under a nonlinear transformed area-level model | .pdf | 2024 |
+| [Draft](https://hal.science/hal-04179813) | Family of linear regression mixture models stratified along the outcome | .pdf | 2023 |
+| [Draft](https://hal.science/hal-03923916) | Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder | .pdf | 2023 |
 | Book | Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn | [.pdf](https://github.com/rpriam/book1/blob/main/text/book_pytorch_scikit_learn_numpy.pdf) | 2022 |
-| Draft | Visualization of generalized mean estimators using auxiliary information in survey sampling: additive case and stratification | .pdf | 2021 |
-| Draft | Residual odds ratios from 2x2xk tables | .pdf | 2021 |
+| [Draft](https://hal.science/hal-02473840) | Visualization of generalized mean estimators using auxiliary information in survey sampling: additive case and stratification | .pdf | 2021 |
+| [Draft](https://hal.science/hal-03232091) | Residual odds ratios from 2x2xk tables | .pdf | 2021 |
 | Draft | Latent block principal component analysis for binary tables | .pdf | 2021 |
 | Draft | Negative binomial latent block model with generalized constraints | .pdf | 2021 |
 | Draft | A brief survey of numerical procedures for empirical likelihood | .pdf | 2021 |
