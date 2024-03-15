@@ -1,4 +1,4 @@
-# Communications in Journal and Working papers 2012-2024
+# Communications in Journal and working papers 2012-2024
 
 | Type | Title | File |Year |
 | --- | --- | --- | --- |
