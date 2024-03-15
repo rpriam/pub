@@ -18,7 +18,7 @@
 | Journal | [Generalized topographic block model](https://www.sciencedirect.com/science/article/pii/S0925231215012795) | .pdf | 2015 |
 | Journal |  [Data visualization via latent variables and mixture models: a brief survey](https://link.springer.com/article/10.1007/s10044-015-0521-z) | .pdf | 2015 |
 | Journal | [Topographic Bernoulli block mixture mapping for binary tables](https://link.springer.com/article/10.1007/s10044-014-0368-8) | .pdf | 2014 |
-| [Draft](https://www.researchgate.net/profile/Rodolphe_Priam/publication/308296340_Calibration_for_business_surveys/links/5b7647dc92851ca65064eed0/Calibration-for-business-surveys.pdf) | Benchmarking a random intercept regression for small areas via additional columns and rows | .pdf | 2013 |
+| Draft | Benchmarking a random intercept regression for small areas via additional columns and rows | .pdf | 2013 |
 | Conf | A parameterization via random factor for generative topographic mapping | .pdf | 2012 |
 
 
