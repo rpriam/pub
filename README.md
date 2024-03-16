@@ -19,7 +19,7 @@
 | Journal |  [Data visualization via latent variables and mixture models: a brief survey](https://link.springer.com/article/10.1007/s10044-015-0521-z) | .pdf | 2015 |
 | Journal | [Topographic Bernoulli block mixture mapping for binary tables](https://link.springer.com/article/10.1007/s10044-014-0368-8) | .pdf | 2014 |
 | Draft | Benchmarking a random intercept regression for small areas via additional columns and rows | .pdf | 2013 |
-| Conf | A parameterization via random factor for generative topographic mapping | .pdf | 2012 |
+| [Draft](https://hal.science/hal-02927200/) | A parameterization via random factor for generative topographic mapping | .pdf | 2012 |
 
 
 
