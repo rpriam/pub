@@ -1,4 +1,4 @@
-# Last communications in Journal and working papers
+# Last Communications in Journal and Working Papers
 
 | Type | Title | File |Year |
 | --- | --- | --- | --- |
