@@ -14,7 +14,7 @@
 | Journal | [Visualization of generalized mean estimators using auxiliary information in survey sampling](https://www.tandfonline.com/doi/full/10.1080/03610926.2019.1601224) | .pdf | 2019 |
 | Conf | [Symmetric Generative Methods and tSNE: A Short Survey](https://www.scitepress.org/Link.aspx?doi=10.5220/0006684303560363) | .pdf | 2018 |
 | [Draft](https://hal.science/hal-03348013) | Probabilistic Elastic Embedding Model: Comparison of Alternative Models | .pdf | 2018 |
-| Journal | [A simple variance estimator of change for rotating repeated surveys: an application to the European Union Statistics on Income and Living Conditions household surveys](https://www.jstor.org/stable/43965804) | .pdf | 2016 |
+| Journal | [A simple variance estimator of change for rotating repeated surveys: an application to the European Union Statistics on Income and Living Conditions household surveys](https://academic.oup.com/jrsssa/article/179/1/251/7058552) | .pdf | 2016 |
 | Journal | [Generalized topographic block model](https://www.sciencedirect.com/science/article/pii/S0925231215012795) | .pdf | 2015 |
 | Journal |  [Data visualization via latent variables and mixture models: a brief survey](https://link.springer.com/article/10.1007/s10044-015-0521-z) | .pdf | 2015 |
 | Journal | [Topographic Bernoulli block mixture mapping for binary tables](https://link.springer.com/article/10.1007/s10044-014-0368-8) | .pdf | 2014 |
