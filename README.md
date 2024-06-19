@@ -1,4 +1,4 @@
-# Last communications in Journal and Working Papers (2024)
+# Last Journal-and-Working Papers (2024)
 
 | Type | Title | File |Year |
 | --- | --- | --- | --- |
