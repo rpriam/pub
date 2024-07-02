@@ -25,4 +25,4 @@
 | Conf | [Nonlinear mapping by constrained co-clustering](https://www.scitepress.org/PublicationsDetail.aspx?ID=sctjq/0BnCY=&t=1) | .pdf | 2012 |
 | Conf | [Generative topographic mapping and factor analyzers](https://www.scitepress.org/PublicationsDetail.aspx?ID=ffu/rwjMJrs=&t=1) | .pdf | 2012 |
 | [Draft](https://hal.science/hal-02927200/) | A parameterization via random factor for generative topographic mapping | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/faGTM1.pdf) | 2009 |
-| Conf | [Probabilistic Enhanced Mapping with the Generative Tabular Model](Probabilistic Enhanced Mapping with the Generative Tabular Model) | .pdf | 2009 |
+| Conf | [Probabilistic Enhanced Mapping with the Generative Tabular Model](https://ieeexplore.ieee.org/document/4053146/)) | .pdf | 2009 |
