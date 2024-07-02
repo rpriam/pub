@@ -18,6 +18,7 @@
 | Journal | [Generalized topographic block model](https://www.sciencedirect.com/science/article/pii/S0925231215012795) | [.pdf](https://eprints.soton.ac.uk/383632/1/__userfiles.soton.ac.uk_Library_SLAs_Work_for_ALL%2527s_Work_for_ePrints_Accepted%2520Manuscripts_Priam_Generalized.pdf) | 2015 |
 | Journal |  [Data visualization via latent variables and mixture models: a brief survey](https://link.springer.com/article/10.1007/s10044-015-0521-z) | .pdf | 2015 |
 | Journal | [Topographic Bernoulli block mixture mapping for binary tables](https://link.springer.com/article/10.1007/s10044-014-0368-8) | .pdf | 2014 |
+| Draft | Bayesian Gaussian Topographic Block Model | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/gbgtm1.pdf) | 2014 |
 | Draft | Benchmarking a random intercept regression for small areas via additional columns and rows | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/benarsae1.pdf) | 2013 |
 | Conf | [Nonlinear mapping by constrained co-clustering](https://www.scitepress.org/PublicationsDetail.aspx?ID=sctjq/0BnCY=&t=1) | .pdf | 2012 |
 | Conf | [Generative topographic mapping and factor analyzers](https://www.scitepress.org/PublicationsDetail.aspx?ID=ffu/rwjMJrs=&t=1) | .pdf | 2012 |
