@@ -20,7 +20,8 @@
 | Journal | [Topographic Bernoulli block mixture mapping for binary tables](https://link.springer.com/article/10.1007/s10044-014-0368-8) | .pdf | 2014 |
 | Draft | Bayesian Gaussian Topographic Block Model | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/gbgtm1.pdf) | 2014 |
 | Draft | Benchmarking a random intercept regression for small areas via additional columns and rows | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/benarsae1.pdf) | 2013 |
+| Report | Best practice recommendations on variance estimation and small area estimation in business surveys | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/deliverable6.2.pdf) | 2013 |
 | Conf | [Nonlinear mapping by constrained co-clustering](https://www.scitepress.org/PublicationsDetail.aspx?ID=sctjq/0BnCY=&t=1) | .pdf | 2012 |
 | Conf | [Generative topographic mapping and factor analyzers](https://www.scitepress.org/PublicationsDetail.aspx?ID=ffu/rwjMJrs=&t=1) | .pdf | 2012 |
 | [Draft](https://hal.science/hal-02927200/) | A parameterization via random factor for generative topographic mapping | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/faGTM1.pdf) | 2009 |
-
+| Conf | [Probabilistic Enhanced Mapping with the Generative Tabular Model](Probabilistic Enhanced Mapping with the Generative Tabular Model) | .pdf | 2009 |
