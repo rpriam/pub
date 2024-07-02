@@ -26,3 +26,7 @@
 | Conf | [Generative topographic mapping and factor analyzers](https://www.scitepress.org/PublicationsDetail.aspx?ID=ffu/rwjMJrs=&t=1) | .pdf | 2012 |
 | [Draft](https://hal.science/hal-02927200/) | A parameterization via random factor for generative topographic mapping | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/faGTM1.pdf) | 2009 |
 | Conf | [Probabilistic Enhanced Mapping with the Generative Tabular Model](https://ieeexplore.ieee.org/document/4053146/)) | .pdf | 2009 |
+
+**About the author**
+
+[Rodolphe Priam](https://github.com/rpriam/book1/blob/main/text/cv_priam_rodolphe.pdf) had a diploma in practical applied statistics and a phD related to data sciences. He was ﬁrst author, main author or co-author of several communications on model inference in statistics and computer journals. He has served as a Lecturer in French universities during five  years from 2002 to 2004 and 2006 to 2008 and in 2024, he has taught applied statistics, probabilities and computing (statistical inference, queueing theory, langage r, langage java, langage c, langage phyton, data analysis, etc) for more than trenty courses and lectures at universities and engineering schools.
