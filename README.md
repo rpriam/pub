@@ -5,7 +5,7 @@
 | [Draft](https://hal.science/hal-04225025/) | Small-area estimation under a nonlinear transformed area-level model | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/skewsae7.pdf) | | 2024 |
 | [Draft](https://hal.science/hal-04179813) | Family of linear regression mixture models stratified along the outcome | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/stratifreg2.pdf) | | 2023 |
 | [Draft](https://hal.science/hal-03923916) | Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/pcareg2.pdf) | | 2023 |
-| Book | Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn | [.pdf](https://github.com/rpriam/book1/blob/main/text/book_pytorch_scikit_learn_numpy.pdf) | 2022 |
+| Book | Linear and Deep Models Basics with Pytorch, Numpy, and Scikit-Learn | [.pdf](https://github.com/rpriam/book1/blob/main/text/book_pytorch_scikit_learn_numpy.pdf) | 2022 | |
 | [Draft](https://hal.science/hal-02473840) | Visualization of generalized mean estimators using auxiliary information in survey sampling: additive case and stratification | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/addestimator5.pdf) | | 2021 |
 | [Draft](https://hal.science/hal-03232091) | Residual odds ratios from 2x2xk tables | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/vizdataepi2.pdf) | | 2021 |
 | [Draft](https://hal.science/hal-03182148) | Latent block principal component analysis for binary tables | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/pcabm1.pdf) | 2021 | |
