@@ -9,7 +9,7 @@
 | [Draft](https://hal.science/hal-02473840) | Visualization of generalized mean estimators using auxiliary information in survey sampling: additive case and stratification | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/addestimator5.pdf) | 2021 | |
 | [Draft](https://hal.science/hal-03232091) | Residual odds ratios from 2x2xk tables | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/vizdataepi2.pdf) | 2021 | |
 | [Draft](https://hal.science/hal-03182148) | Latent block principal component analysis for binary tables | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/pcabm1.pdf) | 2021 | |
-| [Draft](https://hal.science/hal-03172789) | Negative binomial latent block model with generalized constraints | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/nblbm1.pdf) | 2021 | |
+| [Draft](https://hal.science/hal-03172789) | Negative binomial latent block model with generalized constraints | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/nblbm2.pdf) | 2021 | |
 | [Draft](https://hal.science/hal-03095014) | A brief survey of numerical procedures for empirical likelihood | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/reviewel1.pdf) | 2021 | |
 | Journal | [Visualization of generalized mean estimators using auxiliary information in survey sampling](https://www.tandfonline.com/doi/full/10.1080/03610926.2019.1601224) | [.pdf](https://hal.science/hal-01913079v5/document) | 2019 | |
 | Conf | [Symmetric Generative Methods and tSNE: A Short Survey](https://www.scitepress.org/Link.aspx?doi=10.5220/0006684303560363) | [.pdf](https://www.researchgate.net/profile/Rodolphe_Priam/publication/323551555_Symmetric_Generative_Methods_and_tSNE_A_Short_Survey) | 2018 | |
