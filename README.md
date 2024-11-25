@@ -2,6 +2,7 @@
 
 | Type | Title | File | Year |  |
 | --- | --- | --- | --- | --- |
+| [Draft](https://hal.science/) | Multiway latent block model for pca tensor decomposition | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/multilbm1.pdf) | 2024 | |
 | [Draft](https://hal.science/hal-04225025/) | Small-area estimation under a nonlinear transformed area-level model | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/skewsae7.pdf) | 2024 | |
 | [Draft](https://hal.science/hal-04179813) | Family of linear regression mixture models stratified along the outcome | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/stratifreg2.pdf) | 2023 | |
 | [Draft](https://hal.science/hal-03923916) | Sparse and reduced-rank family of generalized regressions with transformation from pca or autoencoder | [.pdf](https://github.com/rpriam/pub/blob/main/pdfs/pcareg2.pdf) | 2023 | |
